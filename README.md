@@ -33,14 +33,7 @@ Shell Script Generator is a modern, desktop-ready tool that transforms folder st
    cd shell-script-generator
    ```
 
-2. **Start the backend**:
-   ```bash
-   cd backend
-   pip install -r requirements.txt
-   uvicorn main:app --reload
-   ```
-
-3. **Start the frontend desktop app**:
+2. **Start the frontend desktop app**:
    ```bash
    cd frontend
    npm install
