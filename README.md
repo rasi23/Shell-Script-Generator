@@ -2,6 +2,9 @@
 
 Shell Script Generator is a modern, desktop-ready tool that transforms folder structures into executable shell scripts. Instantly generate Bash or PowerShell scripts from a visual file tree, copy them to your clipboard, or download them for immediate use.
 
+# TRY NOW
+https://shell-script-generator.vercel.app/
+
 ## ✨ Features
 
 - 🔧 Convert folder trees into real shell scripts
